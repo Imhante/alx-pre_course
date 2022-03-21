@@ -1,7 +1,8 @@
-git clone https://{token}@github.com/{username}.git
-git add .
-git commit -m <filename/folder>
+git clone https://{token}@github.com/{username}.git ( Used in cloning/entering a repository)
+git add .  (used in adding files to a repo)
+git commit -m <filename/folder> 
 git push
 git checkout -b <branch name>
 git branch
 git status
+git checkout <branch> (used in switching branches)
