@@ -1,1 +1,0 @@
-git clone https://{token}@github.com/username.git, git add ., git commit -m <filename>, git push, git chechout -b <branchname>, git status, git branch
