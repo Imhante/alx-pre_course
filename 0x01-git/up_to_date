@@ -1,0 +1,7 @@
+git clone https://{token}@github.com/{username}.git
+git add .
+git commit -m <filename/folder>
+git push
+git checkout -b <branch name>
+git branch
+git status
